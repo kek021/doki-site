@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "regions": [
+    {
+      "id": "DE-BE",
+      "country": "DEU",
+      "names": {
+        "en": "Berlin",
+        "ru": "Берлин",
+        "uk": "Берлін",
+        "es": "Berlín",
+        "pt-BR": "Berlim"
+      }
+    },
+    {
+      "id": "DE-BY-MUC",
+      "country": "DEU",
+      "names": {
+        "en": "Munich",
+        "ru": "Мюнхен",
+        "uk": "Мюнхен",
+        "es": "Múnich",
+        "pt-BR": "Munique"
+      }
+    },
+    {
+      "id": "DE-HH",
+      "country": "DEU",
+      "names": {
+        "en": "Hamburg",
+        "ru": "Гамбург",
+        "uk": "Гамбург",
+        "es": "Hamburgo",
+        "pt-BR": "Hamburgo"
+      }
+    }
+  ]
+}

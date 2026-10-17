@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "checked": "2026-10-17",
+  "items": [
+    {
+      "country": "PRT",
+      "deadlineDaysFromResidence": null,
+      "startsFrom": "residencePermitIssue",
+      "exemptIssuers": [
+        "EU",
+        "GBR",
+        "BRA",
+        "AGO",
+        "CPV",
+        "GNB",
+        "GNQ",
+        "MOZ",
+        "STP",
+        "TLS"
+      ],
+      "examMayBeRequired": true,
+      "fee": {
+        "amount": 30,
+        "currency": "EUR"
+      },
+      "requirements": [
+        "oldLicense",
+        "identityDocument"
+      ],
+      "source": "https://www.gov.pt/servicos/trocar-carta-de-conducao-estrangeira-por-portuguesa",
+      "verified": "page",
+      "notes": "срок зависит от соглашения со страной выдачи (до 2 лет; без соглашения - сразу); по странам списка не разобран, срок не считаем"
+    },
+    {
+      "country": "DEU",
+      "deadlineDaysFromResidence": 183,
+      "startsFrom": "residencePermitIssue",
+      "exemptIssuers": "EU",
+      "examMayBeRequired": true,
+      "fee": null,
+      "requirements": [
+        "oldLicense",
+        "passport",
+        "residenceCertificate",
+        "photo"
+      ],
+      "source": "https://www.bmv.de/",
+      "verified": "search",
+      "notes": "права третьих стран действуют 6 месяцев с установления места жительства; экзамена нет для стран Anlage 11 FeV"
+    },
+    {
+      "country": "ESP",
+      "deadlineDaysFromResidence": 183,
+      "startsFrom": "residencePermitIssue",
+      "exemptIssuers": "EU",
+      "examMayBeRequired": true,
+      "fee": {
+        "amount": 28.87,
+        "currency": "EUR"
+      },
+      "requirements": [
+        "oldLicense",
+        "medicalCertificate",
+        "proofOfAddress",
+        "photo",
+        "feeReceipt"
+      ],
+      "source": "https://sede.dgt.gob.es/",
+      "verified": "search",
+      "notes": "нужен договор о взаимности со страной выдачи; пошлина для категорий A и B"
+    },
+    {
+      "country": "CZE",
+      "deadlineDaysFromResidence": 91,
+      "startsFrom": "residencePermitIssue",
+      "exemptIssuers": "EU",
+      "examMayBeRequired": false,
+      "fee": {
+        "amount": 200,
+        "currency": "CZK"
+      },
+      "requirements": [
+        "oldLicense",
+        "passport",
+        "currentPermit"
+      ],
+      "source": "https://md.gov.cz/",
+      "verified": "search",
+      "notes": "3 месяца с разрешения на ПМЖ или ВНЖ дольше года; сбор 200 CZK (20 дней) или 700 CZK (5 рабочих дней)"
+    },
+    {
+      "country": "CYP",
+      "deadlineDaysFromResidence": 185,
+      "startsFrom": "residencePermitIssue",
+      "exemptIssuers": "EU",
+      "examMayBeRequired": false,
+      "fee": null,
+      "requirements": [
+        "applicationForm",
+        "photo",
+        "passport",
+        "currentPermit",
+        "oldLicense"
+      ],
+      "source": "https://www.mcw.gov.cy/",
+      "verified": "search",
+      "notes": "после 185 дней проживания; форма TOM 7D, фото 45x35; перевод, если не EN/EL"
+    }
+  ]
+}

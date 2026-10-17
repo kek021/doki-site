@@ -3,20 +3,31 @@
   "updatedAt": "2026-10-17",
   "values": {
     "paywall.launch.enabled": [
-      { "value": true }
+      {
+        "value": true
+      }
     ],
     "paywall.secondLaunch.enabled": [
-      { "value": true }
+      {
+        "value": true
+      }
     ],
     "paywall.onboarding.enabled": [
-      { "value": true }
+      {
+        "value": true
+      }
     ],
     "renewal.dataVersion": [
-      { "value": 1 }
+      {
+        "value": 1
+      }
     ]
   },
   "data": {
     "renewal.timing": "renewal/timing-v1.json",
-    "renewal.links": "renewal/links-v1.json"
+    "renewal.links": "renewal/links-v1.json",
+    "renewal.regions": "renewal/regions-v1.json",
+    "renewal.requirements": "renewal/requirements-v1.json",
+    "license.exchange": "renewal/license-exchange-v1.json"
   }
 }

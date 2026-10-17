@@ -560,6 +560,7 @@
       "lang": "de",
       "title": "Termin vereinbaren - Landesamt für Einwanderung Berlin",
       "regional": true,
+      "region": "DE-BE",
       "verified": "page"
     },
     {
@@ -570,6 +571,7 @@
       "lang": "de",
       "title": "FAQ Servicestelle für Zuwanderung und Einbürgerung (München)",
       "regional": true,
+      "region": "DE-BY-MUC",
       "verified": "page"
     }
   ]

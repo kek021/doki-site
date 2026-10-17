@@ -97,6 +97,7 @@
       "source": "https://www.berlin.de/einwanderung/termine/termin-vereinbaren/",
       "verified": "page",
       "regional": true,
+      "region": "DE-BE",
       "strictLateness": true
     },
     {
@@ -118,6 +119,7 @@
       "source": "https://stadt.muenchen.de/infos/sze-faq.html",
       "verified": "page",
       "regional": true,
+      "region": "DE-BY-MUC",
       "strictLateness": true
     },
     {
@@ -135,6 +137,7 @@
       "source": "https://service.berlin.de/dienstleistung/326233/en/",
       "verified": "none",
       "regional": true,
+      "region": "DE-BE",
       "strictLateness": false
     },
     {
@@ -1262,6 +1265,7 @@
       "source": "https://www.hamburg.de/service/info/111212533/n0/",
       "verified": "search",
       "regional": true,
+      "region": "DE-HH",
       "strictLateness": true
     },
     {
