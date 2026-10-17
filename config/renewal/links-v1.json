@@ -1,0 +1,576 @@
+{
+  "version": 1,
+  "checked": "2026-10-17",
+  "links": [
+    {
+      "country": "UKR",
+      "kind": "passport",
+      "scope": "any",
+      "url": "https://dmsu.gov.ua/poslugi/dokumenti-dlya-vijzdu-za-kordon/vidacha-pasporta-gromadyanina-ukrajni-dlya-vijzdu-za-kordon.html",
+      "lang": "uk",
+      "title": "Видача паспорта громадянина України для виїзду за кордон (ДМС)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "UKR",
+      "kind": "idCard",
+      "scope": "domestic",
+      "url": "https://dmsu.gov.ua/poslugi/pasport-gromadyanina-ukrajni/id-oformlennya-pasporta-gromadyanina-ukrajni-u-formi-kartki-u-razi-obminu-pasporta-zamist-vtrachenogo-abo-vikradenogo.html",
+      "lang": "uk",
+      "title": "ID: Оформлення паспорта громадянина України у формі картки (обмін / втрата)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "RUS",
+      "kind": "nationalPassport",
+      "scope": "domestic",
+      "url": "https://xn--b1aew.xn--p1ai/dejatelnost/emvd/guvm/%D0%B2%D1%8B%D0%B4%D0%B0%D1%87%D0%B0-%D0%BF%D0%B0%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B0-%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B8%D0%BD%D0%B0-%D1%80%D1%84",
+      "lang": "ru",
+      "title": "Выдача паспорта гражданина Российской Федерации (МВД России, мвд.рф)",
+      "regional": false,
+      "verified": "search"
+    },
+    {
+      "country": "RUS",
+      "kind": "passport",
+      "scope": "domestic",
+      "url": "https://xn--b1aew.xn--p1ai/dejatelnost/emvd/guvm/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B3%D1%80%D0%B0%D0%BD%D0%BF%D0%B0%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B0",
+      "lang": "ru",
+      "title": "Оформление загранпаспорта (МВД России, мвд.рф)",
+      "regional": false,
+      "verified": "search"
+    },
+    {
+      "country": "RUS",
+      "kind": "passport",
+      "scope": "abroad",
+      "url": "https://www.kdmid.ru/consr/passports/",
+      "lang": "ru",
+      "title": "Оформление и выдача гражданину РФ паспорта за пределами территории РФ (Консульский департамент МИД)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "BLR",
+      "kind": "passport",
+      "scope": "abroad",
+      "url": "https://germany.mfa.gov.by/ru/consular_issues/passports_and_acts/",
+      "lang": "ru",
+      "title": "Об изменении порядка выдачи паспортов и совершения ряда иных консульских действий",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "KAZ",
+      "kind": "passport",
+      "scope": "abroad",
+      "url": "https://egov.kz/cms/en/services/for_foreigners/pass545_mid",
+      "lang": "en",
+      "title": "Placement of order for a passport of the Republic of Kazakhstan while staying abroad (eGov)",
+      "regional": false,
+      "verified": "search"
+    },
+    {
+      "country": "KAZ",
+      "kind": "passport",
+      "scope": "domestic",
+      "url": "https://egov.kz/cms/en/services/pass003_mvd",
+      "lang": "en",
+      "title": "Issuance of a national ID, passport of the Republic of Kazakhstan (eGov)",
+      "regional": false,
+      "verified": "search"
+    },
+    {
+      "country": "KAZ",
+      "kind": "idCard",
+      "scope": "domestic",
+      "url": "https://egov.kz/cms/en/services/pass003_mvd",
+      "lang": "en",
+      "title": "Issuance of a national ID, passport of the Republic of Kazakhstan (eGov)",
+      "regional": false,
+      "verified": "search"
+    },
+    {
+      "country": "GEO",
+      "kind": "passport",
+      "scope": "any",
+      "url": "https://sda.gov.ge/en/products/passport/",
+      "lang": "en",
+      "title": "Passport of a Citizen of Georgia (Public Service Development Agency)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "GEO",
+      "kind": "idCard",
+      "scope": "any",
+      "url": "https://sda.gov.ge/en/products/id-card/",
+      "lang": "en",
+      "title": "Electronic identity card (Public Service Development Agency)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "GEO",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "url": "https://sda.gov.ge/en/products/migration-residence-permits/",
+      "lang": "en",
+      "title": "Migration / Residence Permits (SDA)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "ARM",
+      "kind": "passport",
+      "scope": "domestic",
+      "url": "https://migration.mia.gov.am/en/passport-services",
+      "lang": "en",
+      "title": "Passport services (Migration and Citizenship Service)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "ARM",
+      "kind": "passport",
+      "scope": "abroad",
+      "url": "http://diaspora.gov.am/en/pages/114",
+      "lang": "en",
+      "title": "Obtaining and changing a passport of a RA citizen (Diaspora Office)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "AZE",
+      "kind": "passport",
+      "scope": "domestic",
+      "url": "https://asan.gov.az/en/service/asan-xidmetler/uemumvetendas-pasportlarinin-verilmesi-ve-deyisdirilmesi",
+      "lang": "en",
+      "title": "Issuance and replacement of national passports (ASAN)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "AZE",
+      "kind": "idCard",
+      "scope": "domestic",
+      "url": "https://asan.gov.az/en/service/asan-xidmetler/sexsiyyet-vesiqelerinin-verilmesi-ve-deyisdirilmesi",
+      "lang": "en",
+      "title": "Issuance and renewal of identity cards (ASAN)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "AZE",
+      "kind": "passport",
+      "scope": "abroad",
+      "url": "https://mfa.gov.az/en/category/services-provided-by-the-diplomatic-missions-and-consulates-of-the-republic-of-azerbaijan-in-foreign-countries/ordinary-passport",
+      "lang": "en",
+      "title": "Ordinary passport (MFA, services by missions abroad)",
+      "regional": false,
+      "verified": "search"
+    },
+    {
+      "country": "UZB",
+      "kind": "passport",
+      "scope": "abroad",
+      "url": "https://belgium.mfa.uz/page/868",
+      "lang": "en",
+      "title": "Biometric Passport of Uzbekistan (Embassy of Uzbekistan in Belgium)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "MDA",
+      "kind": "passport",
+      "scope": "domestic",
+      "url": "https://www.asp.gov.md/ro/servicii/persoane-fizice/acte-identitate/pasaport/155",
+      "lang": "ro",
+      "title": "Eliberarea pașaportului (Agenția Servicii Publice)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "MDA",
+      "kind": "passport",
+      "scope": "abroad",
+      "url": "https://www.mfa.gov.md/ro/content/perfectarea-pasapoartelor",
+      "lang": "ro",
+      "title": "Perfectarea pașapoartelor (MAE)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "MDA",
+      "kind": "idCard",
+      "scope": "abroad",
+      "url": "https://mfa.gov.md/ro/content/buletin-de-identitate",
+      "lang": "ro",
+      "title": "Buletin de identitate (MAE)",
+      "regional": false,
+      "verified": "search"
+    },
+    {
+      "country": "BRA",
+      "kind": "passport",
+      "scope": "domestic",
+      "url": "https://www.gov.br/pf/pt-br/assuntos/passaporte",
+      "lang": "pt",
+      "title": "Obter passaporte (Polícia Federal)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "BRA",
+      "kind": "passport",
+      "scope": "abroad",
+      "url": "https://www.gov.br/pt-br/servicos/obter-passaporte-brasileiro-no-exterior",
+      "lang": "pt",
+      "title": "Obter passaporte brasileiro no exterior (gov.br)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "TUR",
+      "kind": "passport",
+      "scope": "abroad",
+      "url": "https://www.konsolosluk.gov.tr/Faq/Index",
+      "lang": "tr",
+      "title": "Konsolosluk İşlemleri - Sık Sorulan Sorular (MFA)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "TUR",
+      "kind": "passport",
+      "scope": "domestic",
+      "url": "https://randevu.nvi.gov.tr/pages/sss",
+      "lang": "tr",
+      "title": "Sık Sorulan Sorular - NVI randevu",
+      "regional": false,
+      "verified": "search"
+    },
+    {
+      "country": "SRB",
+      "kind": "passport",
+      "scope": "abroad",
+      "url": "https://www.mfa.gov.rs/en/citizens/services/travel-documents",
+      "lang": "en",
+      "title": "Travel Documents (Ministry of Foreign Affairs)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "SRB",
+      "kind": "passport",
+      "scope": "domestic",
+      "url": "https://www.mup.gov.rs/wps/portal/sr/gradjani/dokumenta/putne%20isprave/biometrijski%20pasos/",
+      "lang": "sr",
+      "title": "Biometrijski pasoš (MUP)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "PRT",
+      "kind": "residencePermit",
+      "scope": "any",
+      "url": "https://www.gov.pt/servicos/renovar-a-autorizacao-de-residencia",
+      "lang": "pt",
+      "title": "Renovar a autorização de residência (gov.pt)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "PRT",
+      "kind": "driverLicense",
+      "scope": "domestic",
+      "url": "https://www.gov.pt/servicos/revalidar-a-carta-de-conducao",
+      "lang": "pt",
+      "title": "Revalidar a carta de condução (gov.pt)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "ESP",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "url": "https://www.inclusion.gob.es/en/web/migraciones/w/renovacion-de-la-autorizacion-de-residencia-temporal-no-lucrativa",
+      "lang": "en",
+      "title": "Sheet 7 - Renewal of the non-profit temporary residence permit (Ministerio de Inclusión)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "POL",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "url": "https://www.gov.pl/web/mswia-en/entry-and-residence-conditions-for-foreign-nationals-in-poland",
+      "lang": "en",
+      "title": "Entry and residence conditions for foreign nationals in Poland (MSWiA)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "FRA",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2208?lang=en",
+      "lang": "en",
+      "title": "10-year resident card of a foreigner in France (service-public.gouv.fr)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "ITA",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "url": "https://www.portaleimmigrazione.it/ITA/nuovaProcedura.html",
+      "lang": "it",
+      "title": "La Procedura: richiesta di permesso o carta di soggiorno elettronica (Portale Immigrazione)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "NLD",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "url": "https://ind.nl/en/replace-extend-renew-and-change/extend-and-renew",
+      "lang": "en",
+      "title": "Extend and renew (IND)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "CZE",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "url": "https://portal.gov.cz/en/sluzby-vs/application-for-an-extension-of-a-longterm-residence-permit-S7334",
+      "lang": "en",
+      "title": "Application for an extension of a long-term residence permit (Portal of the Czech Republic)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "CZE",
+      "kind": "visa",
+      "scope": "any",
+      "url": "https://mzv.gov.cz/jnp/en/information_for_aliens/visa_extension/index.html",
+      "lang": "en",
+      "title": "Visa Extension (MFA of the Czech Republic)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "SRB",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "url": "https://www.mup.gov.rs/wps/portal/en/information/temporary+residence/temporary+residence",
+      "lang": "en",
+      "title": "Temporary residence (MUP)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "TUR",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "url": "https://e-ikamet.goc.gov.tr/Ikamet/Basvuru/UzatmaBasvuru",
+      "lang": "tr",
+      "title": "Uzatma Başvuru İşlemleri - e-İkamet (Göç İdaresi)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "ARE",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "url": "https://icp.gov.ae/en/services-details/?serviceid=64afe3c1035448005bd52e66",
+      "lang": "en",
+      "title": "Renewal of residency permits (ICP)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "ISR",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "url": "https://www.gov.il/en/service/request_for_permanent_residency",
+      "lang": "en",
+      "title": "Extend a temporary or permanent residence permit or change a visa category (PIBA)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "ISR",
+      "kind": "visa",
+      "scope": "domestic",
+      "url": "https://www.gov.il/en/service/request_for_extension_tourisem_visa_or_visitor_visa",
+      "lang": "en",
+      "title": "Extend a visitor visa or tourist visa (PIBA)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "USA",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "url": "https://www.uscis.gov/i-90",
+      "lang": "en",
+      "title": "Form I-90: Application to Replace Permanent Resident Card (USCIS)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "USA",
+      "kind": "visa",
+      "scope": "domestic",
+      "url": "https://www.uscis.gov/i-539",
+      "lang": "en",
+      "title": "I-539, Application to Extend/Change Nonimmigrant Status (USCIS)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "USA",
+      "kind": "passport",
+      "scope": "domestic",
+      "url": "https://travel.state.gov/content/travel/en/passports/have-passport/renew.html",
+      "lang": "en",
+      "title": "Renew Your Passport by Mail (travel.state.gov)",
+      "regional": false,
+      "verified": "search"
+    },
+    {
+      "country": "GBR",
+      "kind": "passport",
+      "scope": "domestic",
+      "url": "https://www.gov.uk/renew-adult-passport",
+      "lang": "en",
+      "title": "Renew or replace your adult passport (GOV.UK)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "GBR",
+      "kind": "passport",
+      "scope": "abroad",
+      "url": "https://www.gov.uk/overseas-passports",
+      "lang": "en",
+      "title": "Overseas British passport applications (GOV.UK)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "GBR",
+      "kind": "driverLicense",
+      "scope": "domestic",
+      "url": "https://www.gov.uk/renew-driving-licence",
+      "lang": "en",
+      "title": "Renew your driving licence (GOV.UK)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "GBR",
+      "kind": "residencePermit",
+      "scope": "any",
+      "url": "https://www.gov.uk/get-access-evisa",
+      "lang": "en",
+      "title": "Set up a UKVI account to access your eVisa (GOV.UK)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "CAN",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/new-immigrants/pr-card/apply-renew-replace.html",
+      "lang": "en",
+      "title": "Get a permanent resident card (IRCC)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "CAN",
+      "kind": "visa",
+      "scope": "domestic",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay.html",
+      "lang": "en",
+      "title": "Extend your stay in Canada (visitor record)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "MNE",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "url": "https://www.gov.me/en/article/temporary-residence",
+      "lang": "en",
+      "title": "Temporary residence (Government of Montenegro)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "CYP",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "url": "https://www.gov.cy/mip-md/en/documents/residence-permits-documents/",
+      "lang": "en",
+      "title": "Residence permits/documents for EU citizens and third-country nationals (Migration Department)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "ARG",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "url": "https://www.argentina.gob.ar/migraciones/preguntas-frecuentes-residencias",
+      "lang": "es",
+      "title": "Preguntas Frecuentes - Residencias (Dirección Nacional de Migraciones)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "ARG",
+      "kind": "idCard",
+      "scope": "domestic",
+      "url": "https://www.argentina.gob.ar/interior/dni/extranjeros",
+      "lang": "es",
+      "title": "DNI para extranjeros en el país",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "DEU",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "url": "https://www.gesetze-im-internet.de/aufenthg_2004/__81.html",
+      "lang": "de",
+      "title": "§ 81 AufenthG - Beantragung des Aufenthaltstitels, Fortgeltungsfiktion (gesetze-im-internet.de)",
+      "regional": false,
+      "verified": "page"
+    },
+    {
+      "country": "DEU",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "url": "https://www.berlin.de/einwanderung/termine/termin-vereinbaren/",
+      "lang": "de",
+      "title": "Termin vereinbaren - Landesamt für Einwanderung Berlin",
+      "regional": true,
+      "verified": "page"
+    },
+    {
+      "country": "DEU",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "url": "https://stadt.muenchen.de/infos/sze-faq.html",
+      "lang": "de",
+      "title": "FAQ Servicestelle für Zuwanderung und Einbürgerung (München)",
+      "regional": true,
+      "verified": "page"
+    }
+  ]
+}

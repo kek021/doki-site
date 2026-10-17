@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "updatedAt": "2026-10-17",
+  "values": {
+    "paywall.launch.enabled": [
+      { "value": true }
+    ],
+    "paywall.secondLaunch.enabled": [
+      { "value": true }
+    ],
+    "paywall.onboarding.enabled": [
+      { "value": true }
+    ],
+    "renewal.dataVersion": [
+      { "value": 1 }
+    ]
+  },
+  "data": {
+    "renewal.timing": "renewal/timing-v1.json",
+    "renewal.links": "renewal/links-v1.json"
+  }
+}
