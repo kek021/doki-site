@@ -1,0 +1,1364 @@
+{
+  "version": 1,
+  "checked": "2026-10-27",
+  "items": [
+    {
+      "country": "PRT",
+      "kind": "residencePermit",
+      "scope": "any",
+      "permanent": false,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "currentPermit",
+          "note": "действующий или истёкший менее 6 месяцев назад"
+        },
+        {
+          "id": "passport",
+          "note": null
+        },
+        {
+          "id": "proofOfIncome",
+          "note": "декларация IRS и 3 последних расчётных листка + трудовой договор, либо recibos verdes за 12 месяцев"
+        },
+        {
+          "id": "proofOfAddress",
+          "note": "справка Junta de Freguesia, договор аренды и последняя квитанция либо договор купли-продажи"
+        },
+        {
+          "id": "taxCertificate",
+          "note": "когда применимо; из Portal das Finanças"
+        },
+        {
+          "id": "socialSecurity",
+          "note": "когда применимо; из Segurança Social Direta"
+        },
+        {
+          "id": "criminalRecord",
+          "note": "не справка, а согласие на запрос судимости; даётся при подаче (кроме младше 16)"
+        }
+      ],
+      "fee": null,
+      "inPerson": false,
+      "onlineAvailable": true,
+      "source": "https://www.gov.pt/servicos/renovar-a-autorizacao-de-residencia",
+      "verified": "page"
+    },
+    {
+      "country": "ESP",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "permanent": false,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "applicationForm",
+          "note": "EX-01 (non-lucrative) или EX-03 (работа по найму); для разных видов формы разные"
+        },
+        {
+          "id": "passport",
+          "note": "полная копия"
+        },
+        {
+          "id": "proofOfIncome",
+          "note": "для non-lucrative: достаточные средства на весь срок без работы"
+        },
+        {
+          "id": "healthInsurance",
+          "note": "для non-lucrative"
+        },
+        {
+          "id": "employmentContract",
+          "note": "для разрешения на работу по найму: продолжение трудовых отношений или новый контракт"
+        },
+        {
+          "id": "schoolEnrollment",
+          "note": "если есть дети школьного возраста: справка о зачислении"
+        }
+      ],
+      "fee": null,
+      "inPerson": false,
+      "onlineAvailable": true,
+      "source": "https://www.inclusion.gob.es/en/web/migraciones/w/renovacion-de-la-autorizacion-de-residencia-temporal-no-lucrativa",
+      "verified": "page"
+    },
+    {
+      "country": "CZE",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "permanent": false,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "applicationForm",
+          "note": null
+        },
+        {
+          "id": "passport",
+          "note": "проездной документ"
+        },
+        {
+          "id": "proofOfAddress",
+          "note": null
+        },
+        {
+          "id": "proofOfIncome",
+          "note": "средства на проживание"
+        },
+        {
+          "id": "photo",
+          "note": null
+        },
+        {
+          "id": "healthInsurance",
+          "note": "комплексная медицинская страховка"
+        },
+        {
+          "id": "purposeOfStayProof",
+          "note": "подтверждение цели пребывания"
+        }
+      ],
+      "fee": {
+        "amount": 2500,
+        "currency": "CZK"
+      },
+      "inPerson": false,
+      "onlineAvailable": true,
+      "source": "https://portal.gov.cz/en/sluzby-vs/application-for-an-extension-of-a-longterm-residence-permit-S7334",
+      "verified": "page"
+    },
+    {
+      "country": "CZE",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "permanent": true,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "applicationForm",
+          "note": null
+        },
+        {
+          "id": "passport",
+          "note": "проездной документ"
+        }
+      ],
+      "fee": {
+        "amount": 2500,
+        "currency": "CZK"
+      },
+      "inPerson": false,
+      "onlineAvailable": true,
+      "source": "https://portal.gov.cz/en/sluzby-vs/application-for-an-extension-of-the-validity-of-the-permanent-residence-permit-of-a-thirdcountry-national-S7371",
+      "verified": "page"
+    },
+    {
+      "country": "ISR",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "permanent": false,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "passport",
+          "note": "действителен минимум 6 месяцев после запрашиваемого продления"
+        },
+        {
+          "id": "photo",
+          "note": "2 цветных фото 3,5x4,5 см на светлом фоне"
+        },
+        {
+          "id": "proofOfAddress",
+          "note": "доказательство основного места жительства в Израиле: аренда/покупка, коммунальные счета, справка муниципалитета и др."
+        },
+        {
+          "id": "applicationForm",
+          "note": "распечатать и заполнить форму продления"
+        },
+        {
+          "id": "schoolEnrollment",
+          "note": "если есть дети: справка о школе/саде, справки об образовании, прививочные книжки"
+        }
+      ],
+      "fee": {
+        "amount": 195,
+        "currency": "ILS"
+      },
+      "inPerson": true,
+      "onlineAvailable": false,
+      "source": "https://www.gov.il/en/service/request_for_permanent_residency",
+      "verified": "page"
+    },
+    {
+      "country": "ISR",
+      "kind": "visa",
+      "scope": "domestic",
+      "permanent": false,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "passport",
+          "note": "действителен минимум 6 месяцев после запрашиваемой даты"
+        },
+        {
+          "id": "photo",
+          "note": "1 актуальное фото"
+        },
+        {
+          "id": "proofOfIncome",
+          "note": "средства на проживание, обратный билет"
+        },
+        {
+          "id": "purposeOfStayProof",
+          "note": "письмо с обоснованием продления; доп. документы по основанию (приглашение, медицинские, судебные)"
+        }
+      ],
+      "fee": {
+        "amount": 195,
+        "currency": "ILS"
+      },
+      "inPerson": null,
+      "onlineAvailable": null,
+      "source": "https://www.gov.il/en/service/request_for_extension_tourisem_visa_or_visitor_visa",
+      "verified": "page"
+    },
+    {
+      "country": "CYP",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "permanent": true,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "applicationForm",
+          "note": "MLT3"
+        },
+        {
+          "id": "passport",
+          "note": "копии страниц за последние 5 лет с отметками о въездах и выездах"
+        }
+      ],
+      "fee": {
+        "amount": 30,
+        "currency": "EUR"
+      },
+      "inPerson": true,
+      "onlineAvailable": true,
+      "source": "https://www.gov.cy/mip-md/en/documents/acquisition-of-the-status-of-long-term-resident-in-the-republic/",
+      "verified": "page"
+    },
+    {
+      "country": "CAN",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "permanent": true,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "applicationForm",
+          "note": "IMM 5444 в Permanent Residence Portal + чек-лист IMM 5644"
+        },
+        {
+          "id": "feeReceipt",
+          "note": "оплата отдельно на сайте IRCC, чек загружается в портал"
+        },
+        {
+          "id": "marriageCertificate",
+          "note": "только если меняете имя: документы о смене имени"
+        }
+      ],
+      "fee": null,
+      "inPerson": false,
+      "onlineAvailable": true,
+      "source": "https://www.canada.ca/en/immigration-refugees-citizenship/services/permanent-residents/card/apply.html",
+      "verified": "page"
+    },
+    {
+      "country": "USA",
+      "kind": "visa",
+      "scope": "domestic",
+      "permanent": false,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "applicationForm",
+          "note": "Form I-539, при необходимости I-539A"
+        },
+        {
+          "id": "passport",
+          "note": "действителен на весь запрашиваемый срок пребывания"
+        }
+      ],
+      "fee": null,
+      "inPerson": false,
+      "onlineAvailable": true,
+      "source": "https://www.uscis.gov/i-539",
+      "verified": "page"
+    },
+    {
+      "country": "USA",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "permanent": true,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "applicationForm",
+          "note": "Form I-90 (редакция 01/20/25); онлайн-подача через аккаунт USCIS"
+        }
+      ],
+      "fee": null,
+      "inPerson": false,
+      "onlineAvailable": true,
+      "source": "https://www.uscis.gov/i-90",
+      "verified": "page"
+    },
+    {
+      "country": "GEO",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "permanent": false,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "applicationForm",
+          "note": null
+        },
+        {
+          "id": "passport",
+          "note": "копия проездного документа"
+        },
+        {
+          "id": "currentPermit",
+          "note": "подтверждение законного пребывания в Грузии"
+        },
+        {
+          "id": "purposeOfStayProof",
+          "note": "работа, учёба или родство - по виду ВНЖ"
+        },
+        {
+          "id": "proofOfIncome",
+          "note": "в т.ч. банковские вклады, если достигают требуемой ежемесячной суммы"
+        },
+        {
+          "id": "photo",
+          "note": "электронное цветное 3x4"
+        },
+        {
+          "id": "feeReceipt",
+          "note": null
+        }
+      ],
+      "fee": {
+        "amount": 300,
+        "currency": "GEL"
+      },
+      "inPerson": null,
+      "onlineAvailable": null,
+      "source": "https://sda.gov.ge/en/products/migration-residence-permits/",
+      "verified": "page"
+    },
+    {
+      "country": "GEO",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "permanent": true,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "applicationForm",
+          "note": null
+        },
+        {
+          "id": "passport",
+          "note": "копия проездного документа"
+        },
+        {
+          "id": "currentPermit",
+          "note": "подтверждение законного пребывания; для пути «10 лет» - копия карты временного ВНЖ"
+        },
+        {
+          "id": "proofOfIncome",
+          "note": null
+        },
+        {
+          "id": "photo",
+          "note": "электронное цветное 3x4"
+        },
+        {
+          "id": "feeReceipt",
+          "note": null
+        }
+      ],
+      "fee": {
+        "amount": 500,
+        "currency": "GEL"
+      },
+      "inPerson": null,
+      "onlineAvailable": true,
+      "source": "https://sda.gov.ge/en/products/migration-residence-permits/",
+      "verified": "page"
+    },
+    {
+      "country": "GEO",
+      "kind": "passport",
+      "scope": "any",
+      "permanent": false,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "identityDocument",
+          "note": "ID-карта"
+        },
+        {
+          "id": "photo",
+          "note": "цветное фото (около 5 GEL на месте)"
+        },
+        {
+          "id": "oldPassport",
+          "note": "при замене"
+        }
+      ],
+      "fee": {
+        "amount": 150,
+        "currency": "GEL"
+      },
+      "inPerson": null,
+      "onlineAvailable": null,
+      "source": "https://sda.gov.ge/en/products/passport/",
+      "verified": "page"
+    },
+    {
+      "country": "GEO",
+      "kind": "idCard",
+      "scope": "any",
+      "permanent": false,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "photo",
+          "note": "2 фото (около 5 GEL на месте)"
+        },
+        {
+          "id": "identityDocument",
+          "note": "действующая ID-карта; не нужна, если утеряна"
+        },
+        {
+          "id": "marriageCertificate",
+          "note": "если менялись имя/фамилия: документ о смене"
+        }
+      ],
+      "fee": {
+        "amount": 60,
+        "currency": "GEL"
+      },
+      "inPerson": null,
+      "onlineAvailable": null,
+      "source": "https://sda.gov.ge/en/products/id-card/",
+      "verified": "page"
+    },
+    {
+      "country": "UKR",
+      "kind": "passport",
+      "scope": "any",
+      "permanent": false,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "applicationForm",
+          "note": "печатает принимающий сотрудник"
+        },
+        {
+          "id": "identityDocument",
+          "note": "паспорт гражданина Украины (с 14 лет)"
+        },
+        {
+          "id": "birthCertificate",
+          "note": "иностранные документы - с нотариальным переводом"
+        },
+        {
+          "id": "feeReceipt",
+          "note": "административный сбор или документ об освобождении"
+        },
+        {
+          "id": "oldPassport",
+          "note": "при обмене: действующий загранпаспорт"
+        }
+      ],
+      "fee": {
+        "amount": 1147,
+        "currency": "UAH"
+      },
+      "inPerson": true,
+      "onlineAvailable": null,
+      "source": "https://dmsu.gov.ua/poslugi/dokumenti-dlya-vijzdu-za-kordon/vidacha-pasporta-gromadyanina-ukrajni-dlya-vijzdu-za-kordon.html",
+      "verified": "page"
+    },
+    {
+      "country": "AZE",
+      "kind": "passport",
+      "scope": "domestic",
+      "permanent": false,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "identityDocument",
+          "note": "ID-карта"
+        },
+        {
+          "id": "feeReceipt",
+          "note": null
+        },
+        {
+          "id": "militaryRegistration",
+          "note": "мужчины 18-35: военный билет или справка об отсрочке"
+        },
+        {
+          "id": "photo",
+          "note": "снимается на месте по стандарту ICAO"
+        }
+      ],
+      "fee": {
+        "amount": 60,
+        "currency": "AZN"
+      },
+      "inPerson": null,
+      "onlineAvailable": null,
+      "source": "https://asan.gov.az/en/service/asan-xidmetler/uemumvetendas-pasportlarinin-verilmesi-ve-deyisdirilmesi",
+      "verified": "page"
+    },
+    {
+      "country": "AZE",
+      "kind": "idCard",
+      "scope": "domestic",
+      "permanent": false,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "applicationForm",
+          "note": "заполняет сотрудник МВД"
+        },
+        {
+          "id": "identityDocument",
+          "note": "действующая ID-карта"
+        },
+        {
+          "id": "feeReceipt",
+          "note": null
+        }
+      ],
+      "fee": {
+        "amount": 5,
+        "currency": "AZN"
+      },
+      "inPerson": null,
+      "onlineAvailable": null,
+      "source": "https://asan.gov.az/en/service/asan-xidmetler/sexsiyyet-vesiqelerinin-verilmesi-ve-deyisdirilmesi",
+      "verified": "page"
+    },
+    {
+      "country": "ARM",
+      "kind": "passport",
+      "scope": "abroad",
+      "permanent": false,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "applicationForm",
+          "note": null
+        },
+        {
+          "id": "oldPassport",
+          "note": "паспорт на замену"
+        },
+        {
+          "id": "photo",
+          "note": "2 цветных фото 35x45 мм"
+        },
+        {
+          "id": "feeReceipt",
+          "note": "госпошлина"
+        },
+        {
+          "id": "militaryRegistration",
+          "note": "справка о воинском учёте (для военнообязанных)"
+        }
+      ],
+      "fee": null,
+      "inPerson": true,
+      "onlineAvailable": null,
+      "source": "http://diaspora.gov.am/en/pages/114",
+      "verified": "page"
+    },
+    {
+      "country": "BLR",
+      "kind": "passport",
+      "scope": "domestic",
+      "permanent": false,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "applicationForm",
+          "note": "подписанное заявление"
+        },
+        {
+          "id": "identityDocument",
+          "note": "действующий документ, удостоверяющий личность"
+        },
+        {
+          "id": "photo",
+          "note": "по требованиям"
+        },
+        {
+          "id": "feeReceipt",
+          "note": "1,5 базовой величины для 14+; до 14 лет бесплатно"
+        }
+      ],
+      "fee": null,
+      "inPerson": null,
+      "onlineAvailable": null,
+      "source": "https://www.mfa.gov.by/visa/passport/",
+      "verified": "page"
+    },
+    {
+      "country": "RUS",
+      "kind": "passport",
+      "scope": "abroad",
+      "permanent": false,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "applicationForm",
+          "note": "анкета и QR-код с zp.midpass.ru"
+        },
+        {
+          "id": "oldPassport",
+          "note": "оригинал и копия страницы с фото"
+        },
+        {
+          "id": "identityDocument",
+          "note": "внутренний паспорт, если есть: оригинал и копии страниц с фото и пропиской"
+        },
+        {
+          "id": "marriageCertificate",
+          "note": "при несовпадении фамилий: оригинал и копия с апостилем и переводом"
+        },
+        {
+          "id": "appointmentConfirmation",
+          "note": "запись на приём на сайте консульства"
+        }
+      ],
+      "fee": null,
+      "inPerson": true,
+      "onlineAvailable": null,
+      "source": "https://geneva.kdmid.ru/ru/consular-functions/passport/new-generation-passport-for-10-years/",
+      "verified": "page"
+    },
+    {
+      "country": "MDA",
+      "kind": "passport",
+      "scope": "domestic",
+      "permanent": false,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "identityDocument",
+          "note": "удостоверение личности для проживающих в Молдове (с 14 лет)"
+        },
+        {
+          "id": "oldPassport",
+          "note": "недействительные паспорта, не сданные ранее"
+        },
+        {
+          "id": "marriageCertificate",
+          "note": "документы гражданского состояния, с исключениями"
+        },
+        {
+          "id": "citizenshipCertificate",
+          "note": "иностранный паспорт, если есть второе гражданство, не внесённое в реестр"
+        }
+      ],
+      "fee": {
+        "amount": 790,
+        "currency": "MDL"
+      },
+      "inPerson": true,
+      "onlineAvailable": null,
+      "source": "https://www.asp.gov.md/ro/servicii/persoane-fizice/acte-identitate/pasaport/155",
+      "verified": "page"
+    },
+    {
+      "country": "SRB",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "permanent": false,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "applicationForm",
+          "note": null
+        },
+        {
+          "id": "passport",
+          "note": "или ID, если разрешён въезд по нему; действителен ещё 3+ месяца сверх срока"
+        },
+        {
+          "id": "photo",
+          "note": "2 цветных фото 35x45 мм"
+        },
+        {
+          "id": "feeReceipt",
+          "note": null
+        },
+        {
+          "id": "proofOfAddress",
+          "note": "согласие хозяина на адрес либо договор аренды"
+        },
+        {
+          "id": "proofOfIncome",
+          "note": "средства на проживание"
+        },
+        {
+          "id": "healthInsurance",
+          "note": null
+        },
+        {
+          "id": "purposeOfStayProof",
+          "note": "документы по основанию пребывания: работа, учёба, семья"
+        }
+      ],
+      "fee": null,
+      "inPerson": null,
+      "onlineAvailable": null,
+      "source": "https://www.mup.gov.rs/wps/portal/en/information/temporary+residence/temporary+residence",
+      "verified": "page"
+    },
+    {
+      "country": "SRB",
+      "kind": "passport",
+      "scope": "abroad",
+      "permanent": false,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "identityDocument",
+          "note": "биометрический паспорт, ID или другой публичный документ"
+        },
+        {
+          "id": "citizenshipCertificate",
+          "note": "выдана не позже года назад; только для первого биометрического паспорта или при смене данных"
+        },
+        {
+          "id": "birthCertificate",
+          "note": "миссия запрашивает сама, если не заявите, что получите сами"
+        }
+      ],
+      "fee": null,
+      "inPerson": true,
+      "onlineAvailable": null,
+      "source": "https://www.mfa.gov.rs/en/citizens/services/travel-documents",
+      "verified": "page"
+    },
+    {
+      "country": "MNE",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "permanent": false,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "passport",
+          "note": "или иностранное удостоверение личности"
+        },
+        {
+          "id": "purposeOfStayProof",
+          "note": "подтверждение основания для временного проживания"
+        }
+      ],
+      "fee": null,
+      "inPerson": true,
+      "onlineAvailable": null,
+      "source": "https://www.gov.me/en/article/temporary-residence",
+      "verified": "page"
+    },
+    {
+      "country": "TUR",
+      "kind": "passport",
+      "scope": "any",
+      "permanent": false,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "identityDocument",
+          "note": "оригинал nüfus cüzdanı с номером TC"
+        },
+        {
+          "id": "photo",
+          "note": "2 биометрических фото не старше 6 месяцев (за границей достаточно 1)"
+        },
+        {
+          "id": "oldPassport",
+          "note": "прежние паспорта"
+        },
+        {
+          "id": "feeReceipt",
+          "note": "квитанции об уплате пошлины (harç) и стоимости бланка"
+        }
+      ],
+      "fee": null,
+      "inPerson": true,
+      "onlineAvailable": null,
+      "source": "https://www.konsolosluk.gov.tr/Faq/Index",
+      "verified": "page"
+    },
+    {
+      "country": "GBR",
+      "kind": "passport",
+      "scope": "domestic",
+      "permanent": false,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "oldPassport",
+          "note": "старый паспорт и копии всех страниц действующих паспортов других стран"
+        },
+        {
+          "id": "photo",
+          "note": "онлайн - цифровое фото; на бумаге - 2 одинаковых фото"
+        }
+      ],
+      "fee": {
+        "amount": 102,
+        "currency": "GBP"
+      },
+      "inPerson": false,
+      "onlineAvailable": true,
+      "source": "https://www.gov.uk/renew-adult-passport/renew",
+      "verified": "page"
+    },
+    {
+      "country": "GBR",
+      "kind": "driverLicense",
+      "scope": "domestic",
+      "permanent": false,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "identityDocument",
+          "note": "онлайн: подтверждение личности через GOV.UK sign-in (паспорт или права)"
+        },
+        {
+          "id": "photo",
+          "note": "по почте (D1): недавнее фото как на паспорт"
+        },
+        {
+          "id": "oldLicense",
+          "note": "старую фотокарту нужно отправить в DVLA, когда придёт новая"
+        }
+      ],
+      "fee": {
+        "amount": 14,
+        "currency": "GBP"
+      },
+      "inPerson": false,
+      "onlineAvailable": true,
+      "source": "https://www.gov.uk/renew-driving-licence",
+      "verified": "page"
+    },
+    {
+      "country": "PRT",
+      "kind": "driverLicense",
+      "scope": "domestic",
+      "permanent": false,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "identityDocument",
+          "note": "Cartão de Cidadão либо NIF + документ/ВНЖ"
+        },
+        {
+          "id": "medicalCertificate",
+          "note": "психологический сертификат CAP или медицинский, если требуется по категории/возрасту"
+        },
+        {
+          "id": "oldLicense",
+          "note": "при очной подаче: заменяемые права"
+        }
+      ],
+      "fee": {
+        "amount": 27,
+        "currency": "EUR"
+      },
+      "inPerson": false,
+      "onlineAvailable": true,
+      "source": "https://www.gov.pt/servicos/revalidar-a-carta-de-conducao",
+      "verified": "page"
+    },
+    {
+      "country": "DEU",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "permanent": false,
+      "regional": true,
+      "region": "DE-HH",
+      "requirements": [
+        {
+          "id": "passport",
+          "note": "или заменитель паспорта"
+        },
+        {
+          "id": "photo",
+          "note": "биометрическое, в электронном виде; можно сделать на месте"
+        }
+      ],
+      "fee": {
+        "amount": 93,
+        "currency": "EUR"
+      },
+      "inPerson": true,
+      "onlineAvailable": true,
+      "source": "https://www.hamburg.de/service/info/111212533/n0/",
+      "verified": "page"
+    },
+    {
+      "country": "NLD",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "permanent": false,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "passport",
+          "note": "действующий паспорт или другой проездной документ"
+        },
+        {
+          "id": "applicationForm",
+          "note": "онлайн с DigiD или бумажная форма по почте; список приложений - в форме"
+        },
+        {
+          "id": "purposeOfStayProof",
+          "note": "подтверждение, что условия вашего вида на жительство по-прежнему выполняются; иностранные документы легализуют и переводят на нидерландский, английский, французский или немецкий"
+        },
+        {
+          "id": "feeReceipt",
+          "note": "онлайн-заявление оплачивается сразу (iDEAL или Wero); по бумажному придёт письмо с реквизитами"
+        }
+      ],
+      "fee": null,
+      "inPerson": false,
+      "onlineAvailable": true,
+      "source": "https://ind.nl/en/replace-extend-renew-and-change/extend-and-renew/regular-temporary-residence-permit-extension",
+      "verified": "page"
+    },
+    {
+      "country": "POL",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "permanent": false,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "applicationForm",
+          "note": "только электронно через портал MOS (с 27.04.2026), подпись: профиль доверия, квалифицированная или личная подпись"
+        },
+        {
+          "id": "passport",
+          "note": "цифровые копии всех страниц действующего проездного документа"
+        },
+        {
+          "id": "photo",
+          "note": "актуальное цифровое фото, до 2,5 МБ"
+        },
+        {
+          "id": "purposeOfStayProof",
+          "note": "приложения от работодателя, вуза или организатора стажировки - подписываются по ссылке из MOS; зависит от цели пребывания"
+        },
+        {
+          "id": "feeReceipt",
+          "note": "оплата до подачи: 340 zł (440 zł для работы и высококвалифицированных), карта побыту ещё 100 zł; не возвращается при отказе"
+        }
+      ],
+      "fee": {
+        "amount": 340,
+        "currency": "PLN"
+      },
+      "inPerson": null,
+      "onlineAvailable": true,
+      "source": "https://www.gov.pl/web/uw-warminsko-mazurski/cudzoziemcy---zezwolenia-na-pobyt-czasowy-na-terytorium-rp",
+      "verified": "page"
+    },
+    {
+      "country": "FRA",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "permanent": false,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "passport",
+          "note": "или другой действующий документ, удостоверяющий личность"
+        },
+        {
+          "id": "currentPermit",
+          "note": "прежняя карта и квитанции о продлении - подтверждение законного проживания"
+        },
+        {
+          "id": "proofOfAddress",
+          "note": "не старше 6 месяцев"
+        },
+        {
+          "id": "photo",
+          "note": "электронное фото: в ANEF указывается e-photo код"
+        },
+        {
+          "id": "feeReceipt",
+          "note": "налоговые марки: 250 EUR в общем случае, 100 EUR для студентов и ряда категорий; без сбора - беженцы и некоторые другие"
+        },
+        {
+          "id": "medicalCertificate",
+          "note": "только для некоторых категорий (справка OFII)"
+        }
+      ],
+      "fee": {
+        "amount": 250,
+        "currency": "EUR"
+      },
+      "inPerson": null,
+      "onlineAvailable": true,
+      "source": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35799?lang=en",
+      "verified": "page"
+    },
+    {
+      "country": "ITA",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "permanent": false,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "applicationForm",
+          "note": "комплект Poste Italiane (kit postale), сдаётся в почтовом отделении"
+        },
+        {
+          "id": "passport",
+          "note": "фотокопия"
+        },
+        {
+          "id": "currentPermit",
+          "note": "фотокопия действующего permesso di soggiorno"
+        },
+        {
+          "id": "proofOfAddress",
+          "note": "certificato di residenza или dichiarazione di ospitalità; также фотокопия codice fiscale, если есть"
+        },
+        {
+          "id": "feeReceipt",
+          "note": "марка 16 EUR, bollettino 30,46 EUR за карту и взнос 40 EUR (до 1 года) или 50 EUR (свыше 1 года до 2 лет)"
+        }
+      ],
+      "fee": null,
+      "inPerson": null,
+      "onlineAvailable": false,
+      "source": "https://questure.poliziadistato.it/statics/05/documenti_per_rilascio_permessi_di_soggiorno_da_richiedere_con_kit_postale.pdf",
+      "verified": "search"
+    },
+    {
+      "country": "TUR",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "permanent": false,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "applicationForm",
+          "note": "заявление онлайн в e-ikamet; документы после этого отправляются в иль-управление миграции в течение 5 рабочих дней"
+        },
+        {
+          "id": "passport",
+          "note": "нотариально заверенная копия; оригинал не отправлять"
+        },
+        {
+          "id": "photo",
+          "note": "4 шт., белый фон, не старше 6 месяцев"
+        },
+        {
+          "id": "healthInsurance",
+          "note": "срок покрывает запрашиваемый срок ВНЖ; допускается SGK или частный полис"
+        },
+        {
+          "id": "proofOfAddress",
+          "note": "зависит от жилья: tapu, заверенный договор аренды, справка гостиницы; регистрация адреса обязательна"
+        },
+        {
+          "id": "proofOfIncome",
+          "note": "документ или декларация о достаточных регулярных доходах"
+        },
+        {
+          "id": "feeReceipt",
+          "note": "квитанции о пошлине и стоимости документа"
+        }
+      ],
+      "fee": null,
+      "inPerson": false,
+      "onlineAvailable": true,
+      "source": "https://e-ikamet.goc.gov.tr/ikamet/istenenbelgeler/uzatmabasvuruistenenbelgedownload",
+      "verified": "search"
+    },
+    {
+      "country": "ARE",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "permanent": false,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "passport",
+          "note": "действителен не менее 6 месяцев"
+        },
+        {
+          "id": "photo",
+          "note": null
+        },
+        {
+          "id": "proofOfAddress",
+          "note": "счёт за воду или электричество, договор аренды"
+        },
+        {
+          "id": "healthInsurance",
+          "note": "для большинства категорий"
+        },
+        {
+          "id": "marriageCertificate",
+          "note": "подтверждение родства (заверенное свидетельство о браке, свидетельства о рождении детей) для членов семьи"
+        },
+        {
+          "id": "feeReceipt",
+          "note": "сборы по 100 AED: заявление, за каждый год продления, смарт-сервис; штраф за просрочку 50 AED в день"
+        }
+      ],
+      "fee": null,
+      "inPerson": null,
+      "onlineAvailable": null,
+      "source": "https://icp.gov.ae/en/services-details/?serviceid=64afe3c1035448005bd52e66",
+      "verified": "search"
+    },
+    {
+      "country": "ARG",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "permanent": false,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "passport",
+          "note": "действующий; для граждан Меркосур допускается DNI"
+        },
+        {
+          "id": "criminalRecord",
+          "note": "справка Registro Nacional de Reincidencia (с 16 лет) подгружается в RADEX; для nómada digital - справка страны происхождения"
+        },
+        {
+          "id": "proofOfAddress",
+          "note": null
+        },
+        {
+          "id": "purposeOfStayProof",
+          "note": "зависит от категории: непрерывность работы, справка студента, доход рентиста и т.д."
+        },
+        {
+          "id": "feeReceipt",
+          "note": "пошлины формирует RADEX; для беженцев бесплатно"
+        }
+      ],
+      "fee": null,
+      "inPerson": false,
+      "onlineAvailable": true,
+      "source": "https://www.argentina.gob.ar/servicio/obtener-una-prorroga-de-residencia-temporaria-como-trabajador-migrante",
+      "verified": "search"
+    },
+    {
+      "country": "BRA",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "permanent": false,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "currentPermit",
+          "note": "Carteira de Registro Nacional Migratório (CRNM)"
+        },
+        {
+          "id": "applicationForm",
+          "note": null
+        },
+        {
+          "id": "photo",
+          "note": "2 фото 3x4 - только для детей младше 4 лет"
+        },
+        {
+          "id": "feeReceipt",
+          "note": "пошлина за CRNM, если применимо (R$ 204,77, код STN 140120); список зависит от категории"
+        }
+      ],
+      "fee": null,
+      "inPerson": null,
+      "onlineAvailable": null,
+      "source": "https://www.gov.br/pf/pt-br/assuntos/imigracao/pt/nacionalidade/objetivo/servico/documentos",
+      "verified": "search"
+    },
+    {
+      "country": "KAZ",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "permanent": false,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "passport",
+          "note": "действительный заграничный паспорт"
+        },
+        {
+          "id": "photo",
+          "note": "3,5 x 4,5 см; источники называют 1 или 2 шт."
+        },
+        {
+          "id": "feeReceipt",
+          "note": "госпошлина 0,2 МРП"
+        }
+      ],
+      "fee": null,
+      "inPerson": null,
+      "onlineAvailable": null,
+      "source": "https://egov.kz/cms/ru/services/012pass_mvd",
+      "verified": "search"
+    },
+    {
+      "country": "AZE",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "permanent": false,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "applicationForm",
+          "note": null
+        },
+        {
+          "id": "passport",
+          "note": "копия паспорта или другого проездного документа"
+        },
+        {
+          "id": "purposeOfStayProof",
+          "note": "документы об основании пребывания"
+        },
+        {
+          "id": "photo",
+          "note": "2 шт., 3,5 x 4,5 см"
+        },
+        {
+          "id": "proofOfAddress",
+          "note": "выписка о собственности, договор аренды или распоряжение; при чужом жилье - копия удостоверения владельца"
+        },
+        {
+          "id": "feeReceipt",
+          "note": "госпошлина зависит от срока и срочности; квитанция выдаётся после решения, оплатить нужно в течение 30 дней"
+        }
+      ],
+      "fee": null,
+      "inPerson": null,
+      "onlineAvailable": true,
+      "source": "https://asan.gov.az/service/asan-xidmetler/miqrasiya-xidmetleri/ecnebilere-ve-vetendasligi-olmayan-sexslere-azerbaycan-respublikasinin-erazisinde-mueveqqeti-yasamaq-uecuen-icazenin-verilmesi-mueddetinin-uzadilmasi",
+      "verified": "search"
+    },
+    {
+      "country": "ARM",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "permanent": false,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "applicationForm",
+          "note": "заполняется на месте"
+        },
+        {
+          "id": "photo",
+          "note": "3 цветных, 35 x 45 мм"
+        },
+        {
+          "id": "passport",
+          "note": "оригинал, копия и нотариальный перевод на армянский"
+        },
+        {
+          "id": "purposeOfStayProof",
+          "note": "документы, подтверждающие основание статуса"
+        },
+        {
+          "id": "medicalCertificate",
+          "note": null
+        },
+        {
+          "id": "feeReceipt",
+          "note": "госпошлина 105 000 AMD; до 18 лет без пошлины"
+        }
+      ],
+      "fee": {
+        "amount": 105000,
+        "currency": "AMD"
+      },
+      "inPerson": true,
+      "onlineAvailable": null,
+      "source": "https://migration.mia.gov.am/en/acquiring-temporary-residence-status",
+      "verified": "page"
+    },
+    {
+      "country": "SVK",
+      "kind": "residencePermit",
+      "scope": "domestic",
+      "permanent": false,
+      "regional": false,
+      "requirements": [
+        {
+          "id": "applicationForm",
+          "note": "úradné tlačivo, лично в отделе иностранной полиции или электронно через slovensko.sk с квалифицированной подписью"
+        },
+        {
+          "id": "passport",
+          "note": "действующий проездной документ - без него заявление не примут"
+        },
+        {
+          "id": "photo",
+          "note": "одна цветная фотография 3 x 3,5 см"
+        },
+        {
+          "id": "purposeOfStayProof",
+          "note": "не старше 90 дней; только если обстоятельства изменились"
+        },
+        {
+          "id": "healthInsurance",
+          "note": "не старше 90 дней, на всё время пребывания"
+        },
+        {
+          "id": "proofOfAddress",
+          "note": "подтверждение жилья не старше 90 дней: договор аренды, собственность или справка от предоставившего"
+        },
+        {
+          "id": "proofOfIncome",
+          "note": "финансовое обеспечение - для пребывания с целью предпринимательства (§ 22)"
+        },
+        {
+          "id": "feeReceipt",
+          "note": "140 EUR для работы, 200 EUR - предпринимательство, 100 EUR - воссоединение семьи; карта с доставкой - ещё 10 EUR"
+        }
+      ],
+      "fee": {
+        "amount": 140,
+        "currency": "EUR"
+      },
+      "inPerson": false,
+      "onlineAvailable": true,
+      "source": "https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2011/404/",
+      "verified": "page"
+    }
+  ]
+}
